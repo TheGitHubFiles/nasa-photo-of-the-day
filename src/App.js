@@ -19,9 +19,9 @@ h1{
 @media ${pr => pr.theme.breakpoints.tablet}{
 h1{
   order:1;
+  
 }
-
-}   
+}  
 `
 
 

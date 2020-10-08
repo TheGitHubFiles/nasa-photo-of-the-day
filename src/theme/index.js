@@ -1,5 +1,5 @@
 export default {
-    QuickTransition: 'all 0.3s ease-in-out',
+    QuickTransition: 'all 0.8s ease-in-out',
     SlowTransition: 'all 0.5s ease-in-out',
     primaryColor: 'royalblue',
     secondaryColor: 'crimson',

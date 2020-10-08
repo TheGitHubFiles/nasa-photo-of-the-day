@@ -5,6 +5,7 @@ const StyledPicture = styled.div`
 box-shadow:${pr => pr.theme.boxShadow.small};
 margin:0;
 @media ${pr => pr.theme.breakpoints.tablet}{
+    
     order:0;
 };
 `
